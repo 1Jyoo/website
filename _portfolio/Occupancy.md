@@ -3,7 +3,6 @@ layout: post
 title: IoT-Occupancy Monitoring
 #feature-img: "assets/img/portfolio/SOIL.png"
 img: "assets/img/portfolio/Occupancy.png"
-date:
 tags:
 ---
 
