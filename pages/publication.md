@@ -8,4 +8,4 @@ position: 3
 tags:
 ---
 
-{% include publication.html %}
+{% include portfolio.html %}
