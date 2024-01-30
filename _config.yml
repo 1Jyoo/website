@@ -6,7 +6,7 @@ url: "https://1JYoo.github.io"
 title: Wonjae Yoo / 유 원재                                    # site's title
 description: "Wonjae Yoo's Personal Website"      # used by search engines
 avatar: assets/img/gachon5.png                         # Empty for no avatar in navbar
-favicon: assets/gachon3.ico                             # Icon displayed in the tab
+favicon: assets/gachon5.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Welcome  # Change Blog header text
