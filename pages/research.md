@@ -8,8 +8,7 @@ position: 2
 tags:
 ---
 
-{% include research.html %}
 
 
 
-#2020-01-15. Yoo W.J. 
+2020-01-15. Yoo W.J.
