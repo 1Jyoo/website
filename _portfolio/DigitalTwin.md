@@ -3,7 +3,7 @@ layout: post
 title: Digital Twin
 #feature-img: "assets/img/portfolio/SOIL.png"
 img: "assets/img/portfolio/DigitalTwin.png"
-date:
+date: ""
 tags:
 ---
 
