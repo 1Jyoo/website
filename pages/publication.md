@@ -1,10 +1,10 @@
---- 
+---
 layout: page
-title : Portfolio 
-permalink: /portfolio/
-subtitle: "Projects I am working on" 
+title : Publication
+permalink: /publication/
+subtitle: "Projects I have published"
 feature-img: "assets/img/pexels/computer.jpeg"
-position: 4
+position: 3
 tags: [Page]
 ---
 

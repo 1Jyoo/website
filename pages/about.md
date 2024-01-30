@@ -6,9 +6,4 @@ feature-img: "assets/img/pexels/travel.jpeg"
 tags: [Page]
 ---
 
-Type on Strap is based on Type Theme, a free and open-source theme for [Jekyll](http://jekyllrb.com/), licensed under the MIT License.
-
-Head over to the [theme's documentation](https://github.com/sylhare/Type-on-Strap) for much more information about Type on Strap or to install this theme on your own Jekyll site.
-
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
- 
+Greetings, I am Dr. Wonjae Yoo, and I am currently affiliated with Gachon University since 2024. Prior to joining Gachon University, I successfully earned my Ph.D. in Architecture Engineering from Texas A&M University, specializing in pivotal areas such as Building Information Modeling (BIM), building technology, digital twin applications, and the nuanced domains of building energy and thermal comfort. My academic trajectory also includes the acquisition of a master's degree in Civil and Environmental Engineering from the University of Illinois at Urbana-Champaign. Commencing my scholarly pursuits, I earned a bachelor's degree in the same discipline at Chung-Ang University in Seoul, South Korea. My commitment lies in contributing sophisticated and innovative solutions to the Smart City.

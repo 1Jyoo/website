@@ -5,11 +5,11 @@ url: "https://1jyoo.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Wonjae Yoo / 유 원재                                    # site's title
 description: "Wonjae Yoo's Personal Website"      # used by search engines
-avatar: assets/img/gachon.jpg                         # Empty for no avatar in navbar
+avatar: assets/img/gachon.png                         # Empty for no avatar in navbar
 favicon: assets/gachon.ico                             # Icon displayed in the tab
 
 # Header and footer text
-header_text: Change <code>header_text</code> in <code>_config.yml</code>  # Change Blog header text
+header_text: Welcome  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
 footer_text: Copyright 2024
