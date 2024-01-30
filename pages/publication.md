@@ -2,10 +2,10 @@
 layout: page
 title : Publication
 permalink: /publication/
-subtitle: "Projects I have published"
-feature-img: "assets/img/pexels/computer.jpeg"
+subtitle:
+feature-img: "assets/img/pexels/book-glass.jpeg"
 position: 3
-tags: [Page]
+tags:
 ---
 
-{% include portfolio.html %}
+{% include publication.html %}
