@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
 baseurl: "/Website"
-url: "https://1jyoo.github.io"
+url: "https://1JYoo.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Wonjae Yoo / 유 원재                                    # site's title
 description: "Wonjae Yoo's Personal Website"      # used by search engines
-avatar: assets/img/gachon3.png                         # Empty for no avatar in navbar
+avatar: assets/img/gachon5.png                         # Empty for no avatar in navbar
 favicon: assets/gachon3.ico                             # Icon displayed in the tab
 
 # Header and footer text
