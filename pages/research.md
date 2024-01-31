@@ -15,7 +15,7 @@ tags:
 * IoT and BIM-based Occupancy Tracking (BIM과 IoT기반의 재실자 위치 추정 모델)
 * Energy Savings using Indoor Localization BigData (실내 재실자 데이터 기반 에너지 절약 모델)
 * Outdoor Thermal Comfort (실외 열쾌적성)
-*
+
 
 
 {% include portfolio.html %}
