@@ -2,11 +2,13 @@
 layout: post
 title: IoT-Occupancy Monitoring
 #feature-img: "assets/img/portfolio/SOIL.png"
-img: "assets/img/portfolio/Occupancy.png"
+img: "assets/img/portfolio/Occupancy2.png"
 tags:
 ---
 
+{:refdef: style="text-align: center;"}
 ![image]({{ page.img | relative_url }})
+{: refdef}
 
 Indoor occupancy data holds significant importance due to its direct influence on building energy consumption through internal heat gain. In contrast to other research methodologies that involve the installation of additional Bluetooth sensors, my approach leverages existing Wi-Fi systems within buildings. Utilizing data within Building Information Modeling (BIM), I could simulate Wi-Fi signal propagation within the BIM model. This simulation allows for a comparison between the simulated signal data and the actual measurement signals transmitted by occupants through their smart devices. Through this non-intrusive and automated process, the system can accurately determine the location of occupants, offering a streamlined and efficient solution. Importantly, this method is applicable wherever there is a Wi-Fi system in place.
 
