@@ -13,6 +13,12 @@ img: "assets/img/profile.jpg"
 {:refdef: style="text-align: center;"}
 ## Wonjae Yoo, Ph.D.
 {: refdef}
+{:refdef: style="text-align: center;"}
+##### Office: AI Hall-704, Gachon University
+{: refdef}
+{:refdef: style="text-align: center;"}
+##### Email: wyoo@gachon.ac.kr
+{: refdef}
 
 ----------
 ### Education
