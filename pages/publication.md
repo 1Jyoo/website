@@ -18,4 +18,4 @@ tags:
 ## Conference Proceedings
 
 2021 | **Yoo,W.**, Kim,H., Shin,M., Clayton,M.J. “BIM-Based Automatic Contact Tracing System Using Wi-Fi.” *Acadia 2020. The Association for Computer-Aided Design in Architecture (ACADIA)*. | [link](https://papers.cumincad.org/data/works/att/acadia20_94.pdf){:target="_blank"}
-2017 | Yang,R., **Yoo,W,**, Ozer,H., Al-Qadi,I.L. “Development and Application of a Roadway/Roadside LCA software for the Illinois Tollway.” *Transportation Research Board (TRB), Washington D.C.* | [link](https://trid.trb.org/view/1439427){:target="_blank"}
+2017 | Yang,R., **Yoo,W.**, Ozer,H., Al-Qadi,I.L. “Development and Application of a Roadway/Roadside LCA software for the Illinois Tollway.” *Transportation Research Board (TRB), Washington D.C.* | [link](https://trid.trb.org/view/1439427){:target="_blank"}
