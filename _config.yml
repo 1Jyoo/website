@@ -3,7 +3,7 @@ baseurl: "/website"
 url: "https://1JYoo.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Department of Smart City - Prof. Wonjae Yoo / 스마트시티학과 유 원재                                    # site's title
+title: Department of Smart City - Wonjae Yoo / 스마트시티학과 유원재                                    # site's title
 description: "Wonjae Yoo's Personal Website"      # used by search engines
 avatar: assets/img/gachon5.png                         # Empty for no avatar in navbar
 favicon: assets/gachon5.ico                             # Icon displayed in the tab
