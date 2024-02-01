@@ -10,4 +10,4 @@ I successfully defended my dissertation on May 17, 2022, and officially graduate
 
 
 {% include aligner.html images="portfolio/Defense.png" column=1 %}
-{% include aligner.html images="portfolio/graduation.jpg" column=1 %}
+{% include aligner.html images="portfolio/graduation.png" column=1 %}
