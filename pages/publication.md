@@ -9,6 +9,7 @@ tags:
 ---
 
 ## Peer-reviewed Journal Publications
+
 2024 | **Yoo,W.**, Clayton,M.J., Brown,R.D. “From BIM to thermal comfort: Leveraging BIM for rapid outdoor comfort assessments.” *Energy and Buildings*. (IF 6.6, SCIE JCR top 6%) | [link](https://doi.org/10.1016/j.enbuild.2024.114664){:target="_blank"}
 2023 | Ko,J., Ennemoser,B., **Yoo,W. (Corresponding Author)**, Yan,W., Clayton,M.J. “Architectural Spatial Layout Planning Using Artificial Intelligence.” *Automation in Construction*. (IF 10.3, SCIE JCR top 2%) | [link](https://doi.org/10.1016/j.autcon.2023.105019){:target="_blank"}
 2023 | **Yoo,W.**, Clayton,M.J., Yan,W. “ESMUST: EnergyPlus-Driven Surrogate Model for Urban Surface Temperature Prediction.” *Building and Environment*. (IF 7.4, SCIE JCR top 4%) | [link](https://doi.org/10.1016/j.buildenv.2022.109935){:target="_blank"}
