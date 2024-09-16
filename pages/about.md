@@ -38,3 +38,12 @@ img: "assets/img/profile.jpg"
 2018.8 - 2019.7 | Teaching Assistant. Department of Architecture, Texas A&M University, College Station, TX.\
 2017.1 - 2017.5 | Guest Lecturer. Civil and Environmental Engineering, University of Illinois at Urbana-Champaign, IL.\
 2015.8 - 2017.5 | Research Assistant. Illinois Center for Transportation, Rantoul, IL.
+
+
+-----------
+
+
+### Service
+2024 - Present | Reviewer, Building and Environment (IF 7.1).\
+2023 - Present | Reviewer, Automation in Construction (IF 10.3).\
+2023 - Present | Reviewer, Journal of Computing in Civil Engineering (IF 5.8).
