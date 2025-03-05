@@ -40,7 +40,7 @@ comments:
 collections:
   people:
     output: false
-    permalink: /:people/:name
+    permalink: /people/:name
 
 
 # Research
