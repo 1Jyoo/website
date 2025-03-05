@@ -4,7 +4,7 @@ title : Research
 permalink: /research/
 subtitle:
 feature-img: "assets/img/pexels/computer.jpeg"
-position: 2
+position: 3
 tags:
 ---
 

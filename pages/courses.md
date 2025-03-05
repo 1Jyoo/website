@@ -4,7 +4,7 @@ title : Courses
 permalink: /courses/
 subtitle:
 feature-img: "assets/img/pexels/teaching.jpg"
-position: 4
+position: 5
 tags:
 ---
 
