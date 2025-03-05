@@ -1,0 +1,13 @@
+<!-- Portfolio Grid Section -->
+<div class="portfolio-grid">
+    {% for member in site.people %}
+      <div class="lab-member">
+       <img src="{{ member.photo }}" alt="{{ member.name }}">
+       <h3>{{ member.name }}</h3>
+       <h4>{{ member.role }}</h4>
+       <p>{{ member.content | markdownify }}</p>
+       <p><strong>Email:</strong> <a href="mailto:{{ member.email }}">{{ member.email }}</a></p>
+       <p><strong>Research Interests:</strong> {{ member.research_interests | join: ', ' }}</p>
+      </div>
+     {% endfor %}
+</div>

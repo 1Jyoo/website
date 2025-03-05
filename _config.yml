@@ -40,6 +40,12 @@ comments:
 paginate: 5
 paginate_path: "/blog/page:num"
 
+# PEOPLE
+collections:
+  people:
+    output: false
+    permalink: /people/:name
+
 # PORTFOLIO
 collections:
   portfolio:
