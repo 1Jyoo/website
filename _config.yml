@@ -44,7 +44,7 @@ paginate_path: "/blog/page:num"
 collections:
   people:
     output: false
-    permalink: /people/:name
+    permalink: /:people/:name
 
 # PORTFOLIO
 collections:

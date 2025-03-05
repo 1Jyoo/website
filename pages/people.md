@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Lab Members
+title: People
 permalink: /people/
 subtitle: "Our research lab members"
-feature-img: "assets/img/pexels/labmembers.jpg"
+feature-img: "assets/img/pexels/search-map.jpeg"
 position: 3
-tags: [Lab, Members]
+tags:
 ---
 
 {% include people.html %}
