@@ -1,15 +1,8 @@
 <!-- People Grid Section -->
-<div class="people-grid">
-    {% for member in site.people %}
-    <div class="people-cell">
-        <a class="people-link" data-keyboard="true" href="{{ member.url | relative_url }}">
-            <div class="caption" title="{{ member.name }}">
-                <div class="caption-content">
-                    <i class="fas fa-user fa-3x"></i>
-                </div>
-            </div>
-            <img alt="{{ member.name }}" class="" src="{{ member.photo | relative_url }}">
-        </a>
-    </div>
-    {% endfor %}
-</div>
+{% for member in site.people %}
+  <div class="person">
+    <h2>{{ member.name }}</h2>
+    <img src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
+    <p>{{ member.content | markdownify }}</p>
+  </div>
+{% endfor %}

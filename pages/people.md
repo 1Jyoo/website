@@ -7,5 +7,4 @@ feature-img: "assets/img/pexels/search-map.jpeg"
 position: 3
 tags:
 ---
-
 {% include people.html %}
