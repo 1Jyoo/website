@@ -2,15 +2,18 @@
 <div class="people-grid">
   {% for member in site.people %}
     <div class="person-card">
-      <!-- 이름 -->
-      <h2 class="person-name">
-        {{ member.name }}
-      </h2>
 
       <!-- 사진 -->
       {% if member.photo %}
       <img class="person-photo" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
       {% endif %}
+
+      <!-- 이름 -->
+      <h2 class="person-name">
+        <a href="{{ member.url | relative_url }}">
+          {{ member.name }}
+        </a>
+      </h2>
 
       <!-- 직책(Professor 등) -->
       {% if member.position %}
@@ -27,10 +30,12 @@
       </ul>
       {% endif %}
 
-      <!-- 본문(content) - 이메일, 자기소개 등 -->
-      <div class="person-content">
-        {{ member.content | markdownify }}
-      </div>
     </div>
+    
+    <!-- 마지막 사람 뒤에는 구분선이 필요 없을 수 있으니 unless로 조건 처리 -->
+    {% unless forloop.last %}
+      <hr class="person-divider" />
+    {% endunless %}
+
   {% endfor %}
 </div>
