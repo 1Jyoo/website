@@ -10,7 +10,7 @@
 
       <!-- 이름 -->
       <h2 class="person-name">
-        <a href="{{ member.url | relative_url }}">
+        <a href="{{ member.url | relative_url }}" class="person-link">
           {{ member.name }}
         </a>
       </h2>
@@ -31,7 +31,7 @@
       {% endif %}
 
     </div>
-    
+
     <!-- 마지막 사람 뒤에는 구분선이 필요 없을 수 있으니 unless로 조건 처리 -->
     {% unless forloop.last %}
       <hr class="person-divider" />
