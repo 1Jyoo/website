@@ -2,24 +2,32 @@
 <div class="people-grid">
   {% for member in site.people %}
     <div class="person-card">
-      <!-- 이름을 링크로 걸어 개별 페이지로 이동할 수도 있음 -->
+      <!-- 이름 -->
       <h2 class="person-name">
-        <a href="{{ member.url | relative_url }}">
-          {{ member.name }}
-        </a>
+        {{ member.name }}
       </h2>
 
-      <!-- 프로필 사진 출력 -->
+      <!-- 사진 -->
       {% if member.photo %}
       <img class="person-photo" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
       {% endif %}
 
-      <!-- 직책/직위 등 간단 요약 -->
+      <!-- 직책(Professor 등) -->
       {% if member.position %}
       <p class="person-position">{{ member.position }}</p>
       {% endif %}
 
-      <!-- 소개(본문) -->
+      <!-- 연구 관심 분야(research_interests) -->
+      {% if member.research_interests %}
+      <h3>Research Interests</h3>
+      <ul>
+        {% for interest in member.research_interests %}
+          <li>{{ interest }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+
+      <!-- 본문(content) - 이메일, 자기소개 등 -->
       <div class="person-content">
         {{ member.content | markdownify }}
       </div>
