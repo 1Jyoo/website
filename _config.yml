@@ -3,7 +3,7 @@ baseurl: "/website"
 url: "https://1JYoo.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: AI for City Energy and Environment (AiCE^2)                                    # site's title
+title: AiCE2_AI for City Energy&Environment                                    # site's title
 description: "Wonjae Yoo's Research Lab Website"      # used by search engines
 avatar: assets/img/gachon5.png                         # Empty for no avatar in navbar
 favicon: assets/gachon5.ico                             # Icon displayed in the tab
@@ -41,18 +41,15 @@ collections:
   people:
     output: false
     permalink: /people/:title
-
+  portfolio:
+    output: true
+    permalink: /:collection/:name
 
 # Research
 paginate: 5
 paginate_path: "/blog/page:num"
 
 
-# PORTFOLIO
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:name
 
 # BUILD SETTINGS
 sass:
