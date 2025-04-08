@@ -1,26 +1,23 @@
-<!-- People Grid Section -->
+
 <div class="people-grid">
   {% for member in site.people %}
     <div class="person-card">
 
-      <!-- 사진 -->
       {% if member.photo %}
       <img class="person-photo" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
       {% endif %}
 
-      <!-- 이름 -->
       <h2 class="person-name">
         <a href="{{ member.url | relative_url }}" class="person-link">
           {{ member.name }}
         </a>
       </h2>
 
-      <!-- 직책(Professor 등) -->
       {% if member.position %}
       <p class="person-position">{{ member.position }}</p>
       {% endif %}
 
-      <!-- 연구 관심 분야(research_interests) -->
+
       {% if member.research_interests %}
       <h3>Research Interests</h3>
       <ul>
@@ -32,7 +29,6 @@
 
     </div>
 
-    <!-- 마지막 사람 뒤에는 구분선이 필요 없을 수 있으니 unless로 조건 처리 -->
     {% unless forloop.last %}
       <hr class="person-divider" />
     {% endunless %}
