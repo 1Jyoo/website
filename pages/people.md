@@ -8,4 +8,7 @@ position: 2
 tags:
 ---
 
-{% include people.html %}
+{% for person in site.people %}
+- [{{ person.name }}]({{ person.url }})  
+  {{ person.role }}
+{% endfor %}
