@@ -3,7 +3,7 @@ baseurl: "/website"
 url: "https://1JYoo.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: AiCE2_AI for City Energy&Environment                                    # site's title
+title: Ai for City Energy&Environment Lab                                    # site's title
 description: "Wonjae Yoo's Research Lab Website"      # used by search engines
 avatar: assets/img/gachon5.png                         # Empty for no avatar in navbar
 favicon: assets/gachon5.ico                             # Icon displayed in the tab
