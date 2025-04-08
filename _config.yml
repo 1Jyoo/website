@@ -39,7 +39,7 @@ comments:
 # PEOPLE
 collections:
   people:
-    output: false
+    output: true
     permalink: /people/:title
   portfolio:
     output: true

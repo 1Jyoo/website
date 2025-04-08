@@ -1,8 +1,28 @@
 <!-- People Grid Section -->
-{% for member in site.people %}
-  <div class="person">
-    <h2>{{ member.name }}</h2>
-    <img src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
-    <p>{{ member.content | markdownify }}</p>
-  </div>
-{% endfor %}
+<div class="people-grid">
+  {% for member in site.people %}
+    <div class="person-card">
+      <!-- 이름을 링크로 걸어 개별 페이지로 이동할 수도 있음 -->
+      <h2 class="person-name">
+        <a href="{{ member.url | relative_url }}">
+          {{ member.name }}
+        </a>
+      </h2>
+
+      <!-- 프로필 사진 출력 -->
+      {% if member.photo %}
+      <img class="person-photo" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
+      {% endif %}
+
+      <!-- 직책/직위 등 간단 요약 -->
+      {% if member.position %}
+      <p class="person-position">{{ member.position }}</p>
+      {% endif %}
+
+      <!-- 소개(본문) -->
+      <div class="person-content">
+        {{ member.content | markdownify }}
+      </div>
+    </div>
+  {% endfor %}
+</div>
