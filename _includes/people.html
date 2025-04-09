@@ -20,7 +20,7 @@
     <div class="person-card">
 
       {% if member.photo %}
-      <img class="person-photo" src="{{ member.photo | relative_url }}" alt="{{ member.name }}">
+      <img src="{{ member.photo | relative_url }}" class="person-photo" alt="{{ member.name }}">
       {% endif %}
 
       <h2 class="person-name">
