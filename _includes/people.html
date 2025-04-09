@@ -3,6 +3,10 @@
   .person-link {
     text-decoration: underline;
   }
+  .person-card {
+  min-width: 320px;
+  padding: 1rem;
+}
 </style>
 
 
@@ -17,7 +21,7 @@
       <img
         src="{{ member.photo | relative_url }}"
         alt="{{ member.name }}"
-        style="max-width:200px; height:auto;"
+        style="width: 280px; height: 280px; object-fit: cover; border-radius: 8px;"
       >
       {% endif %}
 
