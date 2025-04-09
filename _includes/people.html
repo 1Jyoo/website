@@ -3,11 +3,6 @@
   .person-link {
     text-decoration: underline;
   }
-  .person-photo {
-    width: 200px;
-    height: auto;
-    margin-bottom: 0.5rem;
-  }
 </style>
 
 
@@ -19,7 +14,11 @@
     <div class="person-card">
 
       {% if member.photo %}
-      <img src="{{ member.photo | relative_url }}" class="person-photo" alt="{{ member.name }}">
+      <img
+        src="{{ member.photo | relative_url }}"
+        alt="{{ member.name }}"
+        style="max-width:200px; height:auto;"
+      >
       {% endif %}
 
       <h2 class="person-name">
