@@ -3,7 +3,7 @@ baseurl: "/website"
 url: "https://1JYoo.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: Ai for City Energy&Environment Lab                                    # site's title
+title: Ai for City Energy&Environment (AiCEE) Lab                                    # site's title
 description: "Wonjae Yoo's Research Lab Website"      # used by search engines
 avatar: assets/img/gachon5.png                         # Empty for no avatar in navbar
 favicon: assets/gachon5.ico                             # Icon displayed in the tab
@@ -12,7 +12,7 @@ favicon: assets/gachon5.ico                             # Icon displayed in the 
 header_text: Welcome  # Change Blog header text
 header_feature_image: assets/img/header/triangular.jpeg
 header_feature_image_responsive: true
-footer_text: Copyright ⓒ 2024 Wonjae Yoo. All Rights Reserved.
+footer_text: Copyright ⓒ 2025 Wonjae Yoo. All Rights Reserved.
 
 # Blog
 excerpt: true                                           # Or "truncate" (first 250 characters), "false" to disable
