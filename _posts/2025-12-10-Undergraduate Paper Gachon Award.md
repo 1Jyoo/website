@@ -1,12 +1,12 @@
 ---
 layout: post
 title: >
-    Undergraduate Researcher Doyeon Ryu Receives "Proud Gachon Award" for High-Impact SCI Publication
+    Doyeon Ryu Receives "Gachon Pride Award"
 ---
 
-### Undergraduate Researcher Doyeon Ryu Receives "Proud Gachon Award" for High-Impact SCI Publication.
+### Undergraduate Researcher Doyeon Ryu Receives "Gachon Pride Award" for High-Impact SCI Publication.
 
-We are thrilled to announce that Doyeon Ryu, an undergraduate student in our lab, has been honored with the prestigious "Proud Gachon Person Award" from Gachon University.
+We are thrilled to announce that Doyeon Ryu, an undergraduate student in our lab, has been honored with the prestigious "Gachon Pride Award" from Gachon University.
 This recognition comes in celebration of her remarkable achievement: publishing a first-author SCI paper in a JCR top 7% journal with an Impact Factor of 6.4—an exceptional accomplishment for an undergraduate researcher.
 Her research quantitatively compared various energy-saving strategies for large-scale office buildings using EnergyPlus simulation. The study revealed that ventilation-focused approaches yield the most significant energy reductions among the evaluated methods.
 We congratulate Doyeon on this outstanding achievement and look forward to her continued success in the field of building energy research!
