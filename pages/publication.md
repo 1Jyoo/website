@@ -10,6 +10,7 @@ tags:
 
 ## Peer-reviewed Journal Publications
 
+2026 | **Yoo,W.**, Clayton,M.J. “Neural network-enhanced BIM framework for designing thermally comfortable urban environments.” *Sustainable Cities and Society*. (IF12.0, SCIE JCR top 2.6%) | [link](https://doi.org/10.1016/j.scs.2026.107255){:target="_blank"}
 2025 | **Yoo,W.**, Kim,H. “A surrogate modeling approach for evaluating the shading effect on building energy performance.” *Developments in the Built Environment*. (IF 8.2, SCIE JCR top 3.5%) | [link](https://doi.org/10.1016/j.dibe.2025.100796){:target="_blank"}
 2025 | Ryu,D., **Yoo,W. (Corresponding Author)** “Ventilation-Dominated Energy Savings in Large Commercial Buildings: Multi-Measure Assessment Revealing HVAC Optimization Priorities for Hot-Humid Climates.” *Case Studies in Thermal Engineering*. (IF 6.4, SCIE JCR top 7%) | [link](https://doi.org/10.1016/j.csite.2025.107034){:target="_blank"}
 2024 | **Yoo,W.**, Clayton,M.J., Brown,R.D. “From BIM to Thermal Comfort: Leveraging BIM for Rapid Outdoor Comfort Assessments.” *Energy and Buildings*. (IF 6.6, SCIE JCR top 6%) | [link](https://doi.org/10.1016/j.enbuild.2024.114664){:target="_blank"}
