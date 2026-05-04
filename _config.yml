@@ -5,7 +5,7 @@ url: "https://1jyoo.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: iBIM Lab                                    # site's title
 description: "Intelligent BIM Research Lab — Wonjae Yoo"      # used by search engines
-avatar: assets/img/ibim6.png                         # Empty for no avatar in navbar
+avatar: assets/img/ibim7.png                         # Empty for no avatar in navbar
 favicon: assets/ibim.ico                             # Icon displayed in the tab
 
 # Header and footer text
