@@ -3,8 +3,8 @@ baseurl: "/website"
 url: "https://1jyoo.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
-title: BIM to X Lab                                    # site's title
-description: "Wonjae Yoo's Research Lab Website"      # used by search engines
+title: iBIM Lab                                    # site's title
+description: "Intelligent BIM Research Lab — Wonjae Yoo"      # used by search engines
 avatar: assets/img/gachon5.png                         # Empty for no avatar in navbar
 favicon: assets/gachon5.ico                             # Icon displayed in the tab
 
