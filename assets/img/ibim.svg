@@ -9,8 +9,8 @@
    sodipodi:docname="ibim.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    inkscape:export-filename="ibim.png"
-   inkscape:export-xdpi="225.88235"
-   inkscape:export-ydpi="225.88235"
+   inkscape:export-xdpi="705.88232"
+   inkscape:export-ydpi="705.88232"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,8 +27,8 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="2.1715621"
-     inkscape:cx="271.00307"
-     inkscape:cy="177.06148"
+     inkscape:cx="283.89702"
+     inkscape:cy="178.44297"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
      inkscape:window-x="-8"
@@ -83,12 +83,12 @@
      style="fill:rgb(0, 0, 0);stroke:rgb(203, 213, 225);color:rgb(0, 0, 0);stroke-width:0.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"
      id="line4" />
   <text
-     x="232"
+     x="231.20045"
      y="287"
      font-family="var(--font-sans)"
      font-size="14"
      font-weight="400"
      letter-spacing="0.04em"
      style="color:#000000;font-weight:400;font-size:10.6667px;font-family:'Anthropic Sans', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#475569;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
-     id="text5">Intelligent BIM for the Built Environment</text>
+     id="text5">Intelligent BIM for the Built Environment.</text>
 </svg>
