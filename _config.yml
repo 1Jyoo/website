@@ -5,8 +5,8 @@ url: "https://1jyoo.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: Intelligent BIM for the Built Environment                                    # site's title
 description: "Intelligent BIM Research Lab — Wonjae Yoo"      # used by search engines
-avatar: assets/img/ibim5.png                         # Empty for no avatar in navbar
-favicon: assets/ibim.ico                             # Icon displayed in the tab
+avatar: assets/img/ibim8.png                         # Empty for no avatar in navbar
+favicon: assets/ibim2.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Welcome  # Change Blog header text

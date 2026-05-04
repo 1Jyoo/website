@@ -5,7 +5,7 @@
    style=""
    version="1.1"
    id="svg5"
-   sodipodi:docname="ibim2.svg"
+   sodipodi:docname="ibim.svg"
    inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
    inkscape:export-filename="ibim.png"
    inkscape:export-xdpi="705.88232"
@@ -15,14 +15,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs5">
-    <rect
-       x="157.02982"
-       y="95.323086"
-       width="379.45035"
-       height="241.30095"
-       id="rect1" />
-  </defs>
+     id="defs5" />
   <sodipodi:namedview
      id="namedview5"
      pagecolor="#ffffff"
@@ -33,11 +26,11 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="2.1715621"
-     inkscape:cx="330.86781"
-     inkscape:cy="217.12481"
+     inkscape:cx="283.89702"
+     inkscape:cy="178.44297"
      inkscape:window-width="2560"
      inkscape:window-height="1369"
-     inkscape:window-x="2552"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5" />
@@ -49,17 +42,14 @@
      id="desc1">Final primary mark for iBIM. Lowercase i with isometric cube as the dot, heavy uppercase BIM in slate, with a thin horizontal divider and the tagline Making BIM intelligent in muted text below.</desc>
   <rect
      x="232"
-     y="165.75"
+     y="157"
      width="16"
-     height="71.25"
+     height="80"
      rx="2"
-     style="color:#000000;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#0f172a;stroke:none;stroke-width:0.94373px;stroke-linecap:butt;stroke-linejoin:miter"
-     id="rect2"
-     inkscape:export-filename="rect2.png"
-     inkscape:export-xdpi="705.88232"
-     inkscape:export-ydpi="705.88232" />
+     style="color:#000000;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#0f172a;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
+     id="rect2" />
   <g
-     transform="translate(240,144.28896)"
+     transform="translate(240,136)"
      style="color:#000000;font-weight:400;font-size:16px;font-family:'Anthropic Sans', '-apple-system', BlinkMacSystemFont, 'Segoe UI', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
      id="g4">
     <path
@@ -99,9 +89,5 @@
      font-weight="400"
      letter-spacing="0.04em"
      style="color:#000000;font-weight:400;font-size:10.6667px;font-family:'Anthropic Sans', sans-serif;dominant-baseline:auto;text-anchor:start;opacity:1;fill:#475569;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter"
-     id="text5">Intelligent BIM for the Built Environment</text>
-  <text
-     xml:space="preserve"
-     id="text1"
-     style="fill:#000000;text-orientation:auto;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect1)" />
+     id="text5">Intelligent BIM for the Built Environment.</text>
 </svg>
