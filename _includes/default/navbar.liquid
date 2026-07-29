@@ -4,7 +4,11 @@
     <div class="branding" style="display:flex; align-items:center; gap:12px;">
         {% if site.avatar %}
         <a href="{{ '/' | relative_url }}">
-            <img alt="logo img" class="avatar" src="{{ site.avatar | relative_url }}" loading="lazy" style="margin:0; display:block;"/>
+        <img alt="logo img" class="avatar" src="{{ site.avatar | relative_url }}" loading="lazy"
+        style="margin:0; display:block; flex-shrink:0;
+        height:44px !important; width:auto !important;
+        max-width:none !important; min-width:0;
+        border-radius:0 !important; object-fit:contain;"/>
         </a>
         {% endif %}
         <a class="site-title" aria-label="{{ site.title }}" href="{{ '/' | relative_url }}">
