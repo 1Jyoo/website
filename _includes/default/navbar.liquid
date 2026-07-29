@@ -1,18 +1,17 @@
 <header class="site-header">
 
     <!-- Logo and title -->
-	<div class="branding">
+    <div class="branding" style="display:flex; align-items:center; gap:12px;">
         {% if site.avatar %}
-		<a href="{{ '/' | relative_url }}">
-			<img alt="logo img" class="avatar" src="{{ site.avatar | relative_url }}" loading="lazy"/>
-		</a>
+        <a href="{{ '/' | relative_url }}">
+            <img alt="logo img" class="avatar" src="{{ site.avatar | relative_url }}" loading="lazy" style="margin:0; display:block;"/>
+        </a>
         {% endif %}
         <a class="site-title" aria-label="{{ site.title }}" href="{{ '/' | relative_url }}">
-            <span class="brand-en" style="display:block">Digital Construction &amp; Environment Lab</span>
-            <span class="brand-ko" style="display:block">디지털건설·환경 융합연구실</span>
+            <div class="brand-en">Digital Construction &amp; Environment Lab</div>
+            <div class="brand-ko">디지털건설·환경 융합연구실</div>
         </a>
-		</a>
-	</div>
+    </div>
 
     <!-- Toggle menu -->
     <nav class="clear">
