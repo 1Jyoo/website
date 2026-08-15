@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-    Moved to Gachon University
+    Move to Gachon University
 ---
 
 ### New position as an Assistant Professor at Gachon University, South Korea

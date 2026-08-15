@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-    Accepted a full-time faculty position at Texas A&M University
+    Accept a full-time faculty position at Texas A&M University
 ---
 
 ### New position as an Instructional Assistant Professor at TAMU

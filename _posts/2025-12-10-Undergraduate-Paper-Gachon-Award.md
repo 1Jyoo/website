@@ -4,7 +4,7 @@ title: >
     Doyeon Ryu Receives "Gachon Pride Award"
 ---
 
-### Undergraduate Researcher Doyeon Ryu Receives "Gachon Pride Award" for High-Impact SCI Publication.
+### Undergraduate Researcher Doyeon Ryu Receives "Gachon Pride Award" for High-Impact SCIE Publication.
 
 We are thrilled to announce that Doyeon Ryu, an undergraduate student in our lab, has been honored with the prestigious "Gachon Pride Award" from Gachon University.
 This recognition comes in celebration of her remarkable achievement: publishing a first-author SCI paper in a JCR top 7% journal with an Impact Factor of 6.4—an exceptional accomplishment for an undergraduate researcher.
