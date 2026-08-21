@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
-baseurl: "/website"
-url: "https://1jyoo.github.io"
+baseurl: ""
+url: "https://dce-lab.com"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Digital Construction & Environment Lab                                    # site's title
