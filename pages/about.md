@@ -14,8 +14,8 @@ img: "assets/img/profile.jpg"
 ## Wonjae Yoo, Ph.D.
 {: refdef}
 {:refdef: style="text-align: center;"}
-**Office:** AI Hall-704, Gachon University\
-**Email:** wyoo@gachon.ac.kr
+**Office:** Bldg 309 Rm 304, Chung-Ang University\
+**Email:** wjyoo@cau.ac.kr
 {: refdef}
 
 ----------
@@ -32,7 +32,8 @@ img: "assets/img/profile.jpg"
 
 
 ### Professional Employment
-2024.3 - Present | Assistant Professor. Department of Smart City, Gachon University, South Korea.\
+2026.9 - Present | Assistant Professor. Department of Civil and Environmental Engineering, Chung-Ang University, South Korea.\
+2024.3 - 2026.8 | Assistant Professor. Department of Smart City, Gachon University, South Korea.\
 2022.9 - 2024.2 | Instructional Assistant Professor. Department of Architecture, Texas A&M University, College Station, TX.\
 2019.8 - 2022.5 | Research Assistant. Department of Architecture, Texas A&M University, College Station, TX.\
 2018.8 - 2019.7 | Teaching Assistant. Department of Architecture, Texas A&M University, College Station, TX.\
