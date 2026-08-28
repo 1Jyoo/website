@@ -21,7 +21,7 @@ img: "assets/img/profile.jpg"
 ----------
 ### Education
 
-**Ph.D. in Architecture Engineering**, Texas A&M University, College Station, TX, 2022, Advisor: **Dr. Mark J. Clayton**
+**Ph.D. in Architectural Engineering**, Texas A&M University, College Station, TX, 2022, Advisor: **Dr. Mark J. Clayton**
 
 **M.S. in	Civil and Environmental Engineering**, University of Illinois at Urbana-Champaign, Urbana, IL, 2017
 
