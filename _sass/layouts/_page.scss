@@ -39,3 +39,10 @@ h1.title {
     display: block;
   }
 }
+
+/* center a lone image within its row */
+.row .single {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
