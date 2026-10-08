@@ -8,12 +8,25 @@
   text-align: center;
   color: var(--header-text);
   background: no-repeat var(--header-background);
-  backdrop-filter: brightness(0.5);
   background-size: cover;
+  position: relative;
+
+  /* darken only the band the header text sits on, so the image stays vivid */
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    pointer-events: none;
+    background: linear-gradient(to bottom,
+      rgba(0, 0, 0, 0.05) 0%,
+      rgba(0, 0, 0, 0.45) 50%,
+      rgba(0, 0, 0, 0.05) 100%);
+  }
 
   h1 {
     font-family: $font-family-logo;
     @extend .subtle-txt-shadow;
+    position: relative;
   }
 
   /* --- Responsive --- */
@@ -40,6 +53,10 @@
 
 #main {
   background-position: 100% -50px, 0 center, center top;
+}
+
+#main.call-out {
+  background-position: center center;
 }
 
 /* --- Post listing --- */
